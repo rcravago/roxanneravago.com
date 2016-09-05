@@ -1,6 +1,7 @@
 ---
 title: waggle.tv
 date: 2016-09-05 20:48:00 Z
+layout: page
 ---
 
 Product landing page for waggle.tv
